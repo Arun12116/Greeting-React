@@ -1,0 +1,2 @@
+(this.webpackJsonptodolist=this.webpackJsonptodolist||[]).push([[0],{4:function(o,e,n){"use strict";n.r(e);n(1);var t=n(3),r=n.n(t),s=(n(9),n(0)),c=new Date,i="",d={};(c=c.getHours())>=1&&c<12?(i="Good morning",d.color="green"):c>=12&&c<19?(i="Good Afternoon",d.color="orange"):(i="Good night",d.color="green"),r.a.render(Object(s.jsx)("div",{className:"heading",children:Object(s.jsxs)("h1",{children:["Hello Sir,",Object(s.jsx)("span",{style:d,children:i})]})}),document.getElementById("root"))},9:function(o,e,n){}},[[4,1,2]]]);
+//# sourceMappingURL=main.c28f058e.chunk.js.map
